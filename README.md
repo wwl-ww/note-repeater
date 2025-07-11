@@ -13,7 +13,7 @@
 
 ## 物品配方
 
-![recipe](https://github.com/wwl-ww/note-repeater/raw/main/assets/diagram.png "recipe")
+![recipe](https://github.com/wwl-ww/note-repeater/raw/main/assets/recipe.png "recipe")
 
 ## 功能速览
 ![diagram](https://github.com/wwl-ww/note-repeater/raw/main/assets/diagram.png "diagram")
