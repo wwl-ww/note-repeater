@@ -13,10 +13,10 @@
 
 ## 物品配方
 
-![recipe](assets\recipe.png "recipe")
+![recipe](.assets/recipe.png "recipe")
 
 ## 功能速览
-![diagram](assets\diagram.png "diagram")
+![diagram](.assets/diagram.png "diagram")
 
 左图：四种挡位
 中间：四种挡位(激活)
