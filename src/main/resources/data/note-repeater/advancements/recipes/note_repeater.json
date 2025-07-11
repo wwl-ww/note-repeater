@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "has_stone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "minecraft:stone" }
+        ]
+      }
+    },
+    "has_redstone_torch": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "minecraft:redstone_torch" }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["has_stone", "has_redstone_torch"]
+  ],
+  "rewards": {
+    "recipes": [
+      "note-repeater:note_repeater"
+    ]
+  }
+} 

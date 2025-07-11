@@ -1,0 +1,22 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "note_repeater:block/note_repeater__level4_off",
+    "slab": "minecraft:block/smooth_stone",
+    "top": "note_repeater:block/note_repeater__level4_off"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 2, 16],
+      "faces": {
+        "down":  { "uv": [16, 16, 0, 0], "texture": "#slab", "cullface": "down" },
+        "up":    { "uv": [16, 16, 0, 0], "texture": "#top" },
+        "north": { "uv": [16, 16, 0, 14], "texture": "#slab", "cullface": "north" },
+        "south": { "uv": [16, 16, 0, 14], "texture": "#slab", "cullface": "south" },
+        "west":  { "uv": [16, 16, 0, 14], "texture": "#slab", "cullface": "west" },
+        "east":  { "uv": [16, 16, 0, 14], "texture": "#slab", "cullface": "east" }
+      }
+    }
+  ]
+} 
