@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "note_repeater",
+	"version": "${version}",
+	"name": "Note Repeater",
+	"description": "添加了节拍中继器，一种具有四种节奏模式（四分音符、八分音符、十六分音符、三十二分音符）的红石组件，适用于制作红石音乐机械与节奏控制电路！",
+	"authors": [
+		"chiww6"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/note_repeater/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"chiww6.noterepeater.NoteRepeaterMod"
+		],
+		"client": [
+			"chiww6.noterepeater.NoteRepeaterClient"
+		],
+		"fabric-datagen": [
+			"chiww6.noterepeater.NoteRepeaterDataGenerator"
+		]
+	},
+	"mixins": [
+		"note_repeater.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

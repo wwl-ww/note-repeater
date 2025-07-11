@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    "BBB"
+  ],
+  "key": {
+    "A": { "item": "minecraft:redstone" },
+    "B": { "item": "minecraft:stone" },
+    "C": { "item": "minecraft:redstone_torch" }
+  },
+  "result": {
+    "item": "note_repeater:note_repeater",
+    "count": 1
+  },
+  "allow_mirror": true,
+  "show_notification": true
+} 

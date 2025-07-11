@@ -1,0 +1,39 @@
+{
+  "variants": {
+    "delay=1,powered=false,facing=north": { "model": "note_repeater:block/note_repeater__level1_off" },
+    "delay=1,powered=false,facing=east":  { "model": "note_repeater:block/note_repeater__level1_off", "y": 90 },
+    "delay=1,powered=false,facing=south": { "model": "note_repeater:block/note_repeater__level1_off", "y": 180 },
+    "delay=1,powered=false,facing=west":  { "model": "note_repeater:block/note_repeater__level1_off", "y": 270 },
+    "delay=1,powered=true,facing=north": { "model": "note_repeater:block/note_repeater__level1_on" },
+    "delay=1,powered=true,facing=east":  { "model": "note_repeater:block/note_repeater__level1_on", "y": 90 },
+    "delay=1,powered=true,facing=south": { "model": "note_repeater:block/note_repeater__level1_on", "y": 180 },
+    "delay=1,powered=true,facing=west":  { "model": "note_repeater:block/note_repeater__level1_on", "y": 270 },
+
+    "delay=2,powered=false,facing=north": { "model": "note_repeater:block/note_repeater__level2_off" },
+    "delay=2,powered=false,facing=east":  { "model": "note_repeater:block/note_repeater__level2_off", "y": 90 },
+    "delay=2,powered=false,facing=south": { "model": "note_repeater:block/note_repeater__level2_off", "y": 180 },
+    "delay=2,powered=false,facing=west":  { "model": "note_repeater:block/note_repeater__level2_off", "y": 270 },
+    "delay=2,powered=true,facing=north": { "model": "note_repeater:block/note_repeater__level2_on" },
+    "delay=2,powered=true,facing=east":  { "model": "note_repeater:block/note_repeater__level2_on", "y": 90 },
+    "delay=2,powered=true,facing=south": { "model": "note_repeater:block/note_repeater__level2_on", "y": 180 },
+    "delay=2,powered=true,facing=west":  { "model": "note_repeater:block/note_repeater__level2_on", "y": 270 },
+
+    "delay=3,powered=false,facing=north": { "model": "note_repeater:block/note_repeater__level3_off" },
+    "delay=3,powered=false,facing=east":  { "model": "note_repeater:block/note_repeater__level3_off", "y": 90 },
+    "delay=3,powered=false,facing=south": { "model": "note_repeater:block/note_repeater__level3_off", "y": 180 },
+    "delay=3,powered=false,facing=west":  { "model": "note_repeater:block/note_repeater__level3_off", "y": 270 },
+    "delay=3,powered=true,facing=north": { "model": "note_repeater:block/note_repeater__level3_on" },
+    "delay=3,powered=true,facing=east":  { "model": "note_repeater:block/note_repeater__level3_on", "y": 90 },
+    "delay=3,powered=true,facing=south": { "model": "note_repeater:block/note_repeater__level3_on", "y": 180 },
+    "delay=3,powered=true,facing=west":  { "model": "note_repeater:block/note_repeater__level3_on", "y": 270 },
+
+    "delay=4,powered=false,facing=north": { "model": "note_repeater:block/note_repeater__level4_off" },
+    "delay=4,powered=false,facing=east":  { "model": "note_repeater:block/note_repeater__level4_off", "y": 90 },
+    "delay=4,powered=false,facing=south": { "model": "note_repeater:block/note_repeater__level4_off", "y": 180 },
+    "delay=4,powered=false,facing=west":  { "model": "note_repeater:block/note_repeater__level4_off", "y": 270 },
+    "delay=4,powered=true,facing=north": { "model": "note_repeater:block/note_repeater__level4_on" },
+    "delay=4,powered=true,facing=east":  { "model": "note_repeater:block/note_repeater__level4_on", "y": 90 },
+    "delay=4,powered=true,facing=south": { "model": "note_repeater:block/note_repeater__level4_on", "y": 180 },
+    "delay=4,powered=true,facing=west":  { "model": "note_repeater:block/note_repeater__level4_on", "y": 270 }
+  }
+} 
